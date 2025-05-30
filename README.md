@@ -7,6 +7,11 @@ https://github.com/assimp/assimp
 
 https://github.com/assimp/assimp-net
 
+
+#### Alibre Design File Open Formats:
+
+![image](https://github.com/user-attachments/assets/901117cc-96fb-4466-9a89-cba1efd4f80c)
+
 ## Alibre Design file formats:
 
 #### Import Formats
