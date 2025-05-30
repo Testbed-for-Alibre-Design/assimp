@@ -1,28 +1,61 @@
 # assimp
 Assimp (import/export files) Inside Alibre Design (AIAD)
 
-Sources:
+#### Sources:
 
 https://github.com/assimp/assimp
 
 https://github.com/assimp/assimp-net
 
-#### AIAD new supported file formats:
+## Alibre Design file formats:
 
-<strong>Importers</strong>
+#### Import Formats
+- SolidWorks
+- Inventor
+- Pro ENGINEER / Creo
+- CATIA
+- Solid Edge
+- Siemens NX
+- Rhino
+- STEP
+- SAT (ACIS)
+- IGES
+- Parasolid
+- DWG
+- DXF
+- SVG
+
+#### Export Formats
+- STEP
+- SAT (ACIS)
+- IGES
+- STL
+- OBJ
+- Parasolid
+- ZPR
+- JT
+- DWG (2D)
+- DXF (2D)
+- SVG
+- PDF (2D & 3D)
+
+## AIAD new supported file formats:
+
+#### Importers
 
 - [X] 3DM
 - [ ] AD_PRT
+- [ ] glTF
 
-<strong>Exporters</strong>
+#### Exporters
 
 - [ ] 3DM
 - [ ] AD_PRT
+- [ ] glTF
 
+## Assimp supported file formats:
 
-#### Assimp supported file formats:
-
-<strong>Importers</strong>
+#### Importer
 
 - [ ] 3D  
 - [ ] [3DS](https://en.wikipedia.org/wiki/.3ds)  
@@ -88,7 +121,7 @@ https://github.com/assimp/assimp-net
 - [ ] XGL  
 - [ ] ZGL  
 
-<strong>Exporters</strong>
+#### Exporters
 
 - [ ] DAE (Collada)  
 - [ ] STL  
